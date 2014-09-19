@@ -1,0 +1,6 @@
+{ 
+"sqli":     ["select","update","insert","delete","from","create","truncate","drop","alert","table","database","union","and"], 
+"xss":      ["script","alert","confirm","expression","prompt","onerror","onmousemove","onload","onclick","onmouseover"], 
+"fckscan":  ["fckeditor","editor","filemanager"], 
+"senspath": ["resin-doc","config.inc.php.bak","WEBINF","entries","bash_history","funcspecs","bak"] 
+}

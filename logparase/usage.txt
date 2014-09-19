@@ -1,0 +1,3 @@
+python logparase.py logfilepath
+
+example: python logparase.py 20140309.log
